@@ -12,7 +12,7 @@ Weitere Infos sowie einen Rückblick auf die 13 Wettbewerbsrunden seit 2005 gibt
 
 The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2019 for the 14th consecutive time.
 
-The informatiCup 2018 is devoted to the task of creating so called "misleading pictures". Current research shows that in contrast to human observers, neural networks can be tricked into wrongly classifying specially constructed pictures as real objects like traffic signs.
+The informatiCup 2019 is devoted to the task of creating so called "misleading pictures". Current research shows that in contrast to human observers, neural networks can be tricked into wrongly classifying specially constructed pictures as real objects like traffic signs.
 
 Further information and a retrospective on the 13 informatiCup competitions since 2005 are available on the [official informatiCup website](http://www.informaticup.de).
 
@@ -67,14 +67,14 @@ The informatiCup targets enrolled students throughout all fields of study and se
 - Oktober 2018: Veröffentlichung der Aufgabenbeschreibung
 - November 30, 2018: Deadline für die Anmeldung der Teilnehmerteams (Anmeldung per E-Mail, siehe [offizielle Web-Seite](https://gi.de/informaticup/))
 - Januar 15, 2019: Ende der Annahme der vollständigen Lösung
-- März 2019: Finale des informatiCup 2018 im Rahmen einer Informatik-Fachtagung mit den besten 3-5 Teams
+- März 2019: Finale des informatiCup 2019 im Rahmen einer Informatik-Fachtagung mit den besten 3-5 Teams
 
 ~
 
 - October 2018: Release of the task description 
 - November 30, 2018: Deadline to register your team (by email, see [official web site](https://gi.de/informaticup/))
 - January 15, 2019: Deadline for your submissions
-- March 2019: Final round of the informatiCup 2018 in conjunction with a computer science conference (3 to 5 selected teams)
+- March 2019: Final round of the informatiCup 2019 in conjunction with a computer science conference (3 to 5 selected teams)
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19183660/a90e3f84-8c79-11e6-9047-b13c02a3290d.png)
 
