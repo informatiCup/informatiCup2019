@@ -21,13 +21,13 @@ Further information and a retrospective on the 13 informatiCup competitions sinc
 ## Aufgabenstellung / Task description
 
 
-Die Aufgabenstellung in diesem Jahr ist [Irrbilder](https://github.com/InformatiCup/InformatiCup2019/blob/master/Aufgabenbeschreibung/Irrbilder.pdf).
+Die Aufgabenstellung in diesem Jahr ist [Irrbilder](https://github.com/InformatiCup/InformatiCup2019/blob/master/Irrbilder.pdf).
 
 ![image](https://user-images.githubusercontent.com/1872314/46617427-0600b580-cb1d-11e8-85a1-3b53d0721aec.png)
 
 ~
 
-The task this year is [Irrbilder](InformatiCup2019/blob/master/Aufgabenbeschreibung/Irrbilder.pdf).
+The task this year is [Irrbilder](InformatiCup2019/blob/master/Irrbilder.pdf).
 
 ## Preisgeld / Price money
 
