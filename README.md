@@ -27,7 +27,7 @@ Die Aufgabenstellung in diesem Jahr ist [Irrbilder](https://github.com/Informati
 
 ~
 
-The task this year is [Irrbilder](InformatiCup2019/blob/master/Irrbilder.pdf).
+The task this year is [Irrbilder](https://github.com/InformatiCup/InformatiCup2019/blob/master/Irrbilder.pdf).
 
 ## Preisgeld / Price money
 
