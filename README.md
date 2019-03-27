@@ -1,6 +1,8 @@
 ![image](https://cloud.githubusercontent.com/assets/1872314/19116242/0b21b234-8b15-11e6-9a0d-fdb82983fb17.png)
 
-# informatiCup 2019
+# informatiCup 2019 - Fooling neural networks for image recognition with fake traffic signs - Grey Box Attack
+
+## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
 
 Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](http://www.informaticup.de) - im Jahr 2019 bereits im 14. Jahr in Folge.
 
