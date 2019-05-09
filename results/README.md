@@ -10,7 +10,7 @@ All presentations have been :sparkles:, but we had to come up with a ranking so 
 |------|------------|--------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
 |:1st_place_medal:  | TU Braunschweig   | [SuperPertubator](https://github.com/LPirch/informaticup2019) ||
 |:2nd_place_medal:  | Duisburg-Essen  | ||                                                                                           |
-|:3rd_place_medal:  | DHBW Karlsruhe        |  |
+|:3rd_place_medal:  | DHBW Karlsruhe        | [TeamKarlsruhe](https://gitlab.com/Calendula/informaticup)  |
 | 4    | TH Nürnberg  |  [Medusa](https://github.com/Twonki/Medusa) |:tada: Best technical-scientific transfer Award :sparkles: |
 | 5    | Hannover    | [Kollektiv5](https://github.com/MateRyze/InformatiCup-2019)| :tada: Best GitHub Repository Award :sparkles:            |
 
