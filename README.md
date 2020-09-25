@@ -4,7 +4,7 @@
 
 ## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
 
-Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](http://www.informaticup.de) - im Jahr 2019 bereits im 14. Jahr in Folge.
+Die [Gesellschaft für Informatik](https://gi.de) veranstaltet den [informatiCup](https://informaticup.github.io/) - im Jahr 2019 bereits im 14. Jahr in Folge.
 
 Der informatiCup 2019 widmet sich der Aufgabe, sogenannte Irrbilder zu generieren. Aktuelle Forschungsergebnisse zeigen, dass sich, im Gegensatz zu einem menschlichen Betrachter, künstliche neuronale Netze überlisten lassen und in speziell konstruierten Irrbildern reale Objekte wie zum Beispiel Verkehrsschilder erkennen.
 
@@ -12,7 +12,7 @@ Weitere Infos sowie einen Rückblick auf die 13 Wettbewerbsrunden seit 2005 gibt
 
 ~
 
-The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](http://www.informaticup.de) collegiate computer science competition - in 2019 for the 14th consecutive time.
+The [German Informatics Society](https://en.gi.de) hosts the [informatiCup](https://informaticup.github.io/) collegiate computer science competition - in 2019 for the 14th consecutive time.
 
 The informatiCup 2019 is devoted to the task of creating so called "misleading pictures". Current research shows that in contrast to human observers, neural networks can be tricked into wrongly classifying specially constructed pictures as real objects like traffic signs.
 
