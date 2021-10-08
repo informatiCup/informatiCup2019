@@ -1,5 +1,14 @@
 ![image](https://cloud.githubusercontent.com/assets/1872314/19116242/0b21b234-8b15-11e6-9a0d-fdb82983fb17.png)
 
+## Most recent InformatiCup / aktueller InformatiCup
+
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2022).
+
+~
+
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2022) gehostet.
+
+
 # informatiCup 2019 - Fooling neural networks for image recognition with fake traffic signs - Grey Box Attack
 
 ## :tada: [Results are out / Die finalen Ergebnisse sind da](results/README.md) :tada:
@@ -93,11 +102,3 @@ If you should have any questions or like to see what questions have already been
 Current news is also available on Twitter from [@informatiCup](https://twitter.com/informatiCup).
 
 ![image](https://cloud.githubusercontent.com/assets/1872314/19119143/16a67f04-8b1f-11e6-8b47-0d3510eae0b8.png)
-
-## Most recent InformatiCup / aktueller InformatiCup
-
-The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2021).
-
-~
-
-Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2021) gehostet.
