@@ -96,8 +96,8 @@ Current news is also available on Twitter from [@informatiCup](https://twitter.c
 
 ## Most recent InformatiCup / aktueller InformatiCup
 
-The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2020).
+The current InformatiCup is hosted in [this repo](https://github.com/InformatiCup/InformatiCup2021).
 
 ~
 
-Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2020) gehostet.
+Der aktuelle InformatiCup wird [hier](https://github.com/InformatiCup/InformatiCup2021) gehostet.
